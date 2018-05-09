@@ -1,6 +1,6 @@
 {
   "name": "package",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "repository": "ssh+git:https://github.com/shuuji3/test-npm-package",
   "author": "TAKAHASHI Shuuji <shuuji3@gmail.com>",

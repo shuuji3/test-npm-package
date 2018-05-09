@@ -1,6 +1,7 @@
+const path = require('path');
 const fs = require('fs');
 
-const json = fs.readFileSync('./package.json');
+const json = fs.readFileSync(path.resolve(__dirname, 'package.json'));
 const VERSION = JSON.parse(json).version;
 
 module.exports = class Package {
