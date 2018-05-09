@@ -1,0 +1,9 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh+git:https://github.com/shuuji3/test-npm-package",
+  "author": "TAKAHASHI Shuuji <shuuji3@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
